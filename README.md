@@ -1,3 +1,5 @@
+CryptoClustering
+
 This project focuses on clustering cryptocurrencies based on their market performance using K-Means and dimensionality reduction techniques. By clustering cryptocurrencies, we can identify patterns and groups of similar assets, helping to uncover trends within the crypto market.
 
 Project Overview
